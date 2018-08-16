@@ -1,0 +1,19 @@
+# 100DaysofMLCode LOG
+
+### Day 1: August 16, 2018 
+
+**Hours spent**:
+
+**Today's Progress**: 
+
+1. Made a public pledge to code/study machine learning for 3 hours every day for the next 100 days
+2. Set up my Twitter account
+3. Created this public log for this challenge 
+4. Enrolled to the Andrew Ng's Deep Learning Specialization Course 
+
+**Thoughts** Tomorrow hopefully I'll start learning 
+
+**Link(s) to work**
+-
+
+
