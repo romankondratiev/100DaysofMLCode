@@ -2,7 +2,7 @@
 
 ### Day 1: August 16, 2018 
 
-**Time spent**: 1.20 hrs  
+**Time spent**: 1.2 hrs  
 
 **Today's Progress**: 
 
