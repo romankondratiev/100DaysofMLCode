@@ -13,7 +13,6 @@
 
 **Thoughts** Tomorrow hopefully I'll start learning 
 
-**Link(s) to work**:
--
+
 
 
