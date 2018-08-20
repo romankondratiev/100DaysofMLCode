@@ -44,9 +44,9 @@ failed
 
 1. Installed git, learned & esecuted basic commands
 2. Learned how to:
-  compute derivatives for a gradient descent with a computational graph
-  implement gradient descent for logistic regression 
-  use vectorization and why is it so important for Deep Learning 
+  compute derivatives for a gradient descent with a computational graph,
+  implement gradient descent for logistic regression,
+  use vectorization and why is it so important for Deep Learning. 
 5. Implemented vectorization using numpy
 
 
