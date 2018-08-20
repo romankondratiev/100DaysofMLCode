@@ -42,7 +42,7 @@ failed
 
 **Today's Progress**: 
 
-1. Installed git, learned & esecuted basic commands
+1. Installed git, learned & executed basic commands
 2. Learned how to:
   compute derivatives for a gradient descent with a computational graph
   implement gradient descent for logistic regression 
