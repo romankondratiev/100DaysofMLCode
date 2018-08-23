@@ -49,6 +49,12 @@ failed
   use vectorization and why is it so important for Deep Learning. 
 5. Implemented vectorization using numpy
 
+### Day 6: August 21, 2018 
+### Day 7: August 22, 2018
+ 
+
+
+
 
 
 
