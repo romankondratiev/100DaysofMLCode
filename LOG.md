@@ -50,13 +50,29 @@ failed
 5. Implemented vectorization using numpy
 
 ### Day 6: August 21, 2018 
+
+**Time spent**: 3 hrs  
+
+**Today's Progress**: 
+
+1. Learned more about data vectorization
+2. Using numpy vectorized my data for an image classifier
+
 ### Day 7: August 22, 2018
- 
 
+**Time spent**: 3 hrs  
 
+**Today's Progress**: 
 
+1. Built my first logistic regression model from scratch to classify images (cat/non-cat)
+2. Completed Week 2 of the "Neural Networks and Deep Learning Course" by deeplearning.ai
 
+### Day 8: August 23, 2018 
 
+**Time spent**: 3 hrs  
 
+**Today's Progress**: 
 
+1. Learned more about git via this awesome tutorial https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+2. Used git for the first time to update this log 
 
